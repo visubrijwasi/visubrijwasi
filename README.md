@@ -8,7 +8,7 @@
   
 <body>
 
-<h1 style="color: red;">My First Heading</h1>
+<h1 style="color:red;">My First Heading</h1>
 
 <p>My first paragraph.</p>
 
