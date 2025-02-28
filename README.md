@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
   <head> 
-    
-  <title>page title</title>
+
+<title>page title</title>
   
   </head>
   
